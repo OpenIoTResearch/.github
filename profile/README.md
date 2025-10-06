@@ -1,7 +1,12 @@
 👋 Welcome to OpenIoTResearch
-Exploring Embedded Systems and IoT for Real-World Impact
 
-🌱 My Research Focus
+## Exploring Embedded Systems and IoT for Real-World Impact
+
+Hello! I’m an independent researcher passionate about the intersection of embedded systems and the Internet of Things (IoT) - technologies that are shaping the future of automation, sustainability, and intelligent systems.
+
+I began my academic journey studying Physics with Electronics at Osun State University, Nigeria, where I developed a deep interest in the science behind modern electronics. Later, I pursued a Master’s degree in Electronics and Computer Engineering at the University of Birmingham, UK, where my hands-on experience with hardware prototypes strengthened my curiosity for embedded systems and IoT-driven innovation.
+
+## 🌱 My Research Focus
 
 My work revolves around Embedded Systems, IoT-based automation, and their applications in fields like smart agriculture, environmental monitoring, and energy efficiency.
 I believe that understanding not just how to build systems but also why and how they work at a fundamental level is what makes research truly impactful.
