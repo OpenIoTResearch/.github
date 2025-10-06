@@ -1,32 +1,58 @@
-👋 Welcome to OpenIoTResearch
+# 👋 Welcome to OpenIoTResearch  
+**Exploring Embedded Systems and IoT for Real-World Impact**
 
-## Exploring Embedded Systems and IoT for Real-World Impact
+Hello! I’m **Juliet Nkwor**, an independent researcher passionate about the intersection of **embedded systems** and the **Internet of Things (IoT)** - technologies that are transforming automation, sustainability, and intelligent systems.
 
-Hello! I’m an independent researcher passionate about the intersection of embedded systems and the Internet of Things (IoT) - technologies that are shaping the future of automation, sustainability, and intelligent systems.
+I began my academic journey studying **Physics with Electronics** at *Osun State University, Nigeria*, where I developed a strong interest in the science behind modern electronics. Later, I completed my **M.Sc. in Electronics and Computer Engineering** at the *University of Birmingham, UK*, where hands-on experience with hardware prototypes deepened my curiosity about IoT-driven innovation.
 
-I began my academic journey studying Physics with Electronics at Osun State University, Nigeria, where I developed a deep interest in the science behind modern electronics. Later, I pursued a Master’s degree in Electronics and Computer Engineering at the University of Birmingham, UK, where my hands-on experience with hardware prototypes strengthened my curiosity for embedded systems and IoT-driven innovation.
+---
 
-## 🌱 My Research Focus
+## 🌱 Research Focus
 
-My work revolves around Embedded Systems, IoT-based automation, and their applications in fields like smart agriculture, environmental monitoring, and energy efficiency.
-I believe that understanding not just how to build systems but also why and how they work at a fundamental level is what makes research truly impactful.
+My research explores **Embedded Systems** and **IoT-based automation** for real-world applications such as:
 
-The Smart Agriculture IoT Project is a step toward building affordable, scalable, and open-source IoT systems for improving farming practices, data collection, and sustainability in resource-limited environments.
+- 🌾 Smart Agriculture  
+- 🌍 Environmental Monitoring  
+- ⚡ Energy Efficiency  
+- 🤖 AI-Powered Automation  
 
-👉 Read the project details in the README
+I believe that impactful research comes not only from *building systems*, but from *understanding why and how* they work at a fundamental level.
 
-👉 See how to contribute
+> “I don’t just want to build devices - I want to understand their design, logic, and impact.  
+> Research for me is not just invention, but comprehension.”
 
-👉 Explore the research abstract and proposal
+---
 
-🤝 Collaboration & Research Opportunities
+## 🧪 Current Project - *Smart Agriculture IoT*
 
-I am open to collaboration with researchers, developers, and institutions working on related areas.
-My long-term goal is to pursue a Ph.D. in Embedded Systems and IoT — deepening my understanding and contributing to open, sustainable innovation in this field.
+The **Smart Agriculture IoT Project** aims to build **affordable, scalable, and open-source IoT systems** for improving farming practices, data collection, and sustainability — particularly in resource-limited environments.
 
-If you’re a researcher, academic institution, or tech innovator interested in collaboration, feel free to connect or open a discussion on GitHub.
+- 📘 [Read the project details →](https://github.com/OpenIoTResearch/smart-agriculture-iot#readme)
+- 🧭 [View the Research Abstract & Proposal →](https://github.com/OpenIoTResearch/smart-agriculture-iot/wiki)
+- 🤝 [Learn How to Contribute →](https://github.com/OpenIoTResearch/smart-agriculture-iot/blob/main/CONTRIBUTING.md)
 
-💬 Personal Note
+---
 
-“I don’t just want to build devices — I want to understand their design, logic, and impact.
-Research for me is not just invention, but comprehension.”
+## 👩‍💻 Researcher Profile
+
+| **Field** | Embedded Systems & Internet of Things (IoT) |
+|------------|---------------------------------------------|
+| **Research Alias** | OpenIoTResearch |
+| **Affiliation** | Independent Researcher |
+| **Education** | 🎓 B.Sc. Physics with Electronics - *Osun State University, Nigeria* <br> 🎓 M.Sc. Electronics and Computer Engineering - *University of Birmingham, UK* |
+| **Interests** | Embedded Systems Design • IoT Communication (LoRa, WiFi, GSM) • Smart Agriculture • AI-Powered Automation • Sustainable IoT Solutions |
+| **Collaboration** | Open to joint projects, publications, and Ph.D. research programs in IoT & Embedded Systems |
+| **Email** | contact@example.com |
+| **GitHub** | [OpenIoTResearch](https://github.com/juliettegodyere) |
+| **LinkedIn** | [Juliet Nkwor](https://linkedin.com/in/juliet-nkwor) |
+
+---
+
+## 🌍 Collaboration & Research Opportunities
+
+I’m open to collaboration with **researchers, developers, and institutions** interested in IoT and embedded system innovation.  
+My long-term goal is to pursue a **Ph.D. in Embedded Systems and IoT**, contributing to open, sustainable, and impactful research in this evolving field.
+
+---
+
+✨ *Thank you for visiting OpenIoTResearch - where ideas in IoT and Embedded Systems become open, practical, and research-driven.*  
