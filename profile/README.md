@@ -43,7 +43,7 @@ The **Smart Agriculture IoT Project** aims to build **affordable, scalable, and 
 | **Interests** | Embedded Systems Design • IoT Communication (LoRa, WiFi, GSM) • Smart Agriculture • AI-Powered Automation • Sustainable IoT Solutions |
 | **Collaboration** | Open to joint projects, publications, and Ph.D. research programs in IoT & Embedded Systems |
 | **Email** | contact@example.com |
-| **GitHub** | [OpenIoTResearch](https://github.com/juliettegodyere) |
+| **GitHub** | [Juliettegodyere](https://github.com/juliettegodyere) |
 | **LinkedIn** | [Juliet Nkwor](https://linkedin.com/in/juliet-nkwor) |
 
 ---
